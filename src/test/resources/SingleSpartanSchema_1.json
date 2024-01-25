@@ -1,0 +1,27 @@
+{
+  "title": "SingleSpartan",
+  "description": "Auto generated JSON schema based on the 'SingleSpartan' file",
+  "type": "object",
+  "properties": {
+    "data": {
+      "type": "object",
+      "properties": {
+        "gender": {
+          "type": "string"
+        },
+        "phone": {
+          "type": "number"
+        },
+        "name": {
+          "type": "string"
+        },
+        "id": {
+          "type": "number"
+        }
+      }
+    },
+    "success": {
+      "type": "string"
+    }
+  }
+}

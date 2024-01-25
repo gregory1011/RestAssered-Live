@@ -1,0 +1,9 @@
+{
+  "success": "A Spartan is Born!",
+  "data": {
+    "id": 142,
+    "name": "Jora",
+    "gender": "Male",
+    "phone": 3584128232
+  }
+}

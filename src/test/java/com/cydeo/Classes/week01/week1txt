@@ -1,0 +1,30 @@
+
+Which testing framework you use so far?
+- Selenium
+    -TestNG
+    -Cucumber-Junit
+- DB
+    -Junit5
+    -Cucumber-Junit
+- API
+    -Junit5
+        - DDT with Junit5 --> Doing same test against different set of data
+        - Annotation --> @Test
+    -Cucumber-Junit
+
+
+-----------------------------------------------
+
+Which tools you are using for API testing?
+
+    - POSTMAN --> Manual/Automation
+              --> LAST DAY -- 1 Day class as record for POSTMAN Automation
+    - RestAssured --> It is for IPA automation
+
+ -----------------------------------------------
+
+How we perform API testing?
+
+   - Read document to find which endpoint we are gonna use
+   - Do manual testing with POSTMAN/SWAGGER
+   - Automate your test case
